@@ -1,0 +1,23 @@
+@media (max-width: 992px) {
+    .about-caption-left {
+        margin-top: 0px;
+    }
+    .get-app-button {
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .about-caption-left {
+        margin-top: 0px;
+    }
+    .about-section h1 {
+        font-size: 28px;
+    }
+    .about-caption-left p {
+        font-size: 15px;
+        line-height: 1.6rem;
+    }
+    .get-app-button {
+        margin-bottom: 20px;
+    }
+}
